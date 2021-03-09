@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Integreted with ESLint and Prettier
+
+The preject has configured the ESlint and Prettier plugins. Also, in the vscode setting, the `formatOnSave` has been disabled to fix the conflicts with the ESLint `Fix on Save`.
+
+[Reference Video](https://www.youtube.com/watch?v=GedOLszVOo4)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
